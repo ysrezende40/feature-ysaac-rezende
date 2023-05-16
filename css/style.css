@@ -1,0 +1,13 @@
+
+:root {
+    --fundodapag: #FFEBEB;
+    --text-color: #070A52
+    
+  }
+  body{
+    background-color: var(--fundodapag);
+  }
+  h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: var(--text-color);
+  }
